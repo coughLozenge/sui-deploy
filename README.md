@@ -33,7 +33,7 @@ https://rpc-mainnet.suiscan.xyz
 Create a project folder:
 ```
 sui move new nft-project
-cd nft-project/src
+cd nft-project/sources
 nano nft.move
 ```
 NFT contract:
