@@ -16,7 +16,7 @@ cargo install --locked --git https://github.com/MystenLabs/sui.git --branch main
 ```
 sui client
 ```
-Choose a mainnet RPC when propmted:
+Choose a mainnet RPC when prompted:
 ```
 https://sui-mainnet.nodeinfra.com/
 
