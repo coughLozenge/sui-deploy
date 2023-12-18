@@ -49,7 +49,7 @@ Deploy the contract:
 ```
 sui client publish –gas-budget 1000000
 ```
-Locate the package address and mint in an explorer:
+In the explorer, locate the package address and mint:
 
 ![sui](https://github.com/coughLozenge/sui-deploy/assets/106449031/a019b8ce-ffcd-4069-88f8-168a8985d37b)
 
