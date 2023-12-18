@@ -26,7 +26,7 @@ https://sui-mainnet-eu-1.cosmostation.io/
 
 https://sui-mainnet-us-1.cosmostation.io/
 
-https://rpc-mainnet.suiscan.xyz/mostation.io/
+https://rpc-mainnet.suiscan.xyz
 ```
 # Deploy simple NFT
 
