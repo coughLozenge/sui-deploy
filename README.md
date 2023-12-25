@@ -1,4 +1,4 @@
-# Setup a Sui environment on Ubuntu 20/22 for contract deployment
+# Sui environment setup on Ubuntu 20/22 w/ contract deployment example
 
 # Rust
 ```
